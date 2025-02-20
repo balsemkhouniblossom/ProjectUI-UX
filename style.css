@@ -25,15 +25,15 @@ body {
 }
 .profile-card .profile-info h2 {
   margin: 0;
-  color: #333;
+  color: #f90000;
   font-size: 1.8rem;
 }
 .profile-card .profile-info p {
-  color: #666666;
+  color: #ff6060;
   margin: 10px 0;
 }
 .profile-card .profile-info .btn-primary {
-  background-color: #4A90E2;
+  background-color: #000000;
   color: white;
   padding: 10px 20px;
   border: none;
@@ -43,7 +43,7 @@ body {
   margin-top: 15px;
 }
 .profile-card .profile-info .btn-primary:hover {
-  background-color: rgb(34.3857142857, 117.3857142857, 214.6142857143);
+  background-color: black;
 }
 
 /*# sourceMappingURL=style.css.map */
